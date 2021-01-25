@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\Estructuras\Estructuras\bin\Debug\Estructuras.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Estructuras\Estructuras\bin\Debug\Estructuras.exe
+c:\users\acer\documents\visual studio 2015\Projects\Estructuras\Estructuras\bin\Debug\Estructuras.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Estructuras\Estructuras\obj\Debug\Estructuras.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Estructuras\Estructuras\obj\Debug\Estructuras.exe
+c:\users\acer\documents\visual studio 2015\Projects\Estructuras\Estructuras\obj\Debug\Estructuras.pdb

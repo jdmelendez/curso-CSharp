@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\delegados\delegados\bin\Debug\delegados.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\delegados\delegados\bin\Debug\delegados.exe
+c:\users\acer\documents\visual studio 2015\Projects\delegados\delegados\bin\Debug\delegados.pdb
+c:\users\acer\documents\visual studio 2015\Projects\delegados\delegados\obj\Debug\delegados.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\delegados\delegados\obj\Debug\delegados.exe
+c:\users\acer\documents\visual studio 2015\Projects\delegados\delegados\obj\Debug\delegados.pdb

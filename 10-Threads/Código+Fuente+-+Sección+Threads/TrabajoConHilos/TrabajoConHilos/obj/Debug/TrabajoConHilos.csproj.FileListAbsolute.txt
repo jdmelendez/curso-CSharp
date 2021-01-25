@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoConHilos\TrabajoConHilos\bin\Debug\TrabajoConHilos.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoConHilos\TrabajoConHilos\bin\Debug\TrabajoConHilos.exe
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoConHilos\TrabajoConHilos\bin\Debug\TrabajoConHilos.pdb
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoConHilos\TrabajoConHilos\obj\Debug\TrabajoConHilos.exe
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoConHilos\TrabajoConHilos\obj\Debug\TrabajoConHilos.pdb

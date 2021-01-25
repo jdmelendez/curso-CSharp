@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLista\EjemploLista\bin\Debug\EjemploLista.exe
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLista\EjemploLista\bin\Debug\EjemploLista.pdb
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLista\EjemploLista\obj\Debug\EjemploLista.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLista\EjemploLista\obj\Debug\EjemploLista.exe
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLista\EjemploLista\obj\Debug\EjemploLista.pdb

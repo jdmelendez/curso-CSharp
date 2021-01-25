@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\Reflexion\Calculadora\bin\Debug\Calculadora.dll
+c:\users\acer\documents\visual studio 2015\Projects\Reflexion\Calculadora\bin\Debug\Calculadora.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Reflexion\Calculadora\obj\Debug\Calculadora.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Reflexion\Calculadora\obj\Debug\Calculadora.dll
+c:\users\acer\documents\visual studio 2015\Projects\Reflexion\Calculadora\obj\Debug\Calculadora.pdb

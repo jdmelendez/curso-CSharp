@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Reflexion", "Reflexion\Reflexion.csproj", "{BA8DFCBB-521C-41FD-8F95-1280571156D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculadora", "Calculadora\Calculadora.csproj", "{2977A071-78AC-4388-8B08-836D378B6459}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BA8DFCBB-521C-41FD-8F95-1280571156D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BA8DFCBB-521C-41FD-8F95-1280571156D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BA8DFCBB-521C-41FD-8F95-1280571156D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BA8DFCBB-521C-41FD-8F95-1280571156D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2977A071-78AC-4388-8B08-836D378B6459}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2977A071-78AC-4388-8B08-836D378B6459}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2977A071-78AC-4388-8B08-836D378B6459}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2977A071-78AC-4388-8B08-836D378B6459}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

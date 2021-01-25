@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\ForRepeticion\ForRepeticion\bin\Debug\ForRepeticion.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ForRepeticion\ForRepeticion\bin\Debug\ForRepeticion.exe
+c:\users\acer\documents\visual studio 2015\Projects\ForRepeticion\ForRepeticion\bin\Debug\ForRepeticion.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ForRepeticion\ForRepeticion\obj\Debug\ForRepeticion.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ForRepeticion\ForRepeticion\obj\Debug\ForRepeticion.exe
+c:\users\acer\documents\visual studio 2015\Projects\ForRepeticion\ForRepeticion\obj\Debug\ForRepeticion.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\Constantes\Constantes\bin\Debug\Constantes.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Constantes\Constantes\bin\Debug\Constantes.exe
+c:\users\acer\documents\visual studio 2015\Projects\Constantes\Constantes\bin\Debug\Constantes.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Constantes\Constantes\obj\Debug\Constantes.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Constantes\Constantes\obj\Debug\Constantes.exe
+c:\users\acer\documents\visual studio 2015\Projects\Constantes\Constantes\obj\Debug\Constantes.pdb

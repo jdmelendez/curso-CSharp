@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\Eventos\Eventos\bin\Debug\Eventos.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Eventos\Eventos\bin\Debug\Eventos.exe
+c:\users\acer\documents\visual studio 2015\Projects\Eventos\Eventos\bin\Debug\Eventos.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Eventos\Eventos\obj\Debug\Eventos.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Eventos\Eventos\obj\Debug\Eventos.exe
+c:\users\acer\documents\visual studio 2015\Projects\Eventos\Eventos\obj\Debug\Eventos.pdb

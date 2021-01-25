@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\metodosanominos\metodosanominos\bin\Debug\metodosanominos.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\metodosanominos\metodosanominos\bin\Debug\metodosanominos.exe
+c:\users\acer\documents\visual studio 2015\Projects\metodosanominos\metodosanominos\bin\Debug\metodosanominos.pdb
+c:\users\acer\documents\visual studio 2015\Projects\metodosanominos\metodosanominos\obj\Debug\metodosanominos.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\metodosanominos\metodosanominos\obj\Debug\metodosanominos.exe
+c:\users\acer\documents\visual studio 2015\Projects\metodosanominos\metodosanominos\obj\Debug\metodosanominos.pdb

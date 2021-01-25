@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\CancelarTarea\CancelarTarea\bin\Debug\CancelarTarea.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\CancelarTarea\CancelarTarea\bin\Debug\CancelarTarea.exe
+c:\users\acer\documents\visual studio 2015\Projects\CancelarTarea\CancelarTarea\bin\Debug\CancelarTarea.pdb
+c:\users\acer\documents\visual studio 2015\Projects\CancelarTarea\CancelarTarea\obj\Debug\CancelarTarea.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\CancelarTarea\CancelarTarea\obj\Debug\CancelarTarea.exe
+c:\users\acer\documents\visual studio 2015\Projects\CancelarTarea\CancelarTarea\obj\Debug\CancelarTarea.pdb

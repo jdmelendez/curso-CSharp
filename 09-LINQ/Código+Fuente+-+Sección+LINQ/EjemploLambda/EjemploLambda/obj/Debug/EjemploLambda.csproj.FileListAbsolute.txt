@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLambda\EjemploLambda\bin\Debug\EjemploLambda.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLambda\EjemploLambda\bin\Debug\EjemploLambda.exe
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLambda\EjemploLambda\bin\Debug\EjemploLambda.pdb
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLambda\EjemploLambda\obj\Debug\EjemploLambda.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLambda\EjemploLambda\obj\Debug\EjemploLambda.exe
+c:\users\acer\documents\visual studio 2015\Projects\EjemploLambda\EjemploLambda\obj\Debug\EjemploLambda.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\ReflexionTiendas\ReflexionTiendas\bin\Debug\ReflexionTiendas.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ReflexionTiendas\ReflexionTiendas\bin\Debug\ReflexionTiendas.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ReflexionTiendas\ReflexionTiendas\bin\Debug\ReflexionTiendas.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\ReflexionTiendas\ReflexionTiendas\obj\Debug\ReflexionTiendas.pdb

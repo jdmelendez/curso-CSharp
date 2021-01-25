@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\SeguridadTipos\SeguridadTipos\bin\Debug\SeguridadTipos.exe
+c:\users\acer\documents\visual studio 2015\Projects\SeguridadTipos\SeguridadTipos\bin\Debug\SeguridadTipos.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SeguridadTipos\SeguridadTipos\obj\Debug\SeguridadTipos.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\SeguridadTipos\SeguridadTipos\obj\Debug\SeguridadTipos.exe
+c:\users\acer\documents\visual studio 2015\Projects\SeguridadTipos\SeguridadTipos\obj\Debug\SeguridadTipos.pdb

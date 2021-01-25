@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\SerializacionXML\SerializacionXML\bin\Debug\SerializacionXML.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\SerializacionXML\SerializacionXML\bin\Debug\SerializacionXML.exe
+c:\users\acer\documents\visual studio 2015\Projects\SerializacionXML\SerializacionXML\bin\Debug\SerializacionXML.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.exe
+c:\users\acer\documents\visual studio 2015\Projects\SerializacionXML\SerializacionXML\obj\Debug\SerializacionXML.pdb

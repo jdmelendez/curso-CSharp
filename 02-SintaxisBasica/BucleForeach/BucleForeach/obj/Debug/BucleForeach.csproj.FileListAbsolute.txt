@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\BucleForeach\BucleForeach\bin\Debug\BucleForeach.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\BucleForeach\BucleForeach\bin\Debug\BucleForeach.exe
+c:\users\acer\documents\visual studio 2015\Projects\BucleForeach\BucleForeach\bin\Debug\BucleForeach.pdb
+c:\users\acer\documents\visual studio 2015\Projects\BucleForeach\BucleForeach\obj\Debug\BucleForeach.exe
+c:\users\acer\documents\visual studio 2015\Projects\BucleForeach\BucleForeach\obj\Debug\BucleForeach.pdb

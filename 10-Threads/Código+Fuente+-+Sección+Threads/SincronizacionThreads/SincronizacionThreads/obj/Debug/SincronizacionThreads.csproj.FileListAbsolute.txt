@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\SincronizacionThreads\SincronizacionThreads\bin\Debug\SincronizacionThreads.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\SincronizacionThreads\SincronizacionThreads\bin\Debug\SincronizacionThreads.exe
+c:\users\acer\documents\visual studio 2015\Projects\SincronizacionThreads\SincronizacionThreads\bin\Debug\SincronizacionThreads.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SincronizacionThreads\SincronizacionThreads\obj\Debug\SincronizacionThreads.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\SincronizacionThreads\SincronizacionThreads\obj\Debug\SincronizacionThreads.exe
+c:\users\acer\documents\visual studio 2015\Projects\SincronizacionThreads\SincronizacionThreads\obj\Debug\SincronizacionThreads.pdb

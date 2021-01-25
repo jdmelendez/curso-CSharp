@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\OperacionesArchivo\OperacionesArchivo\bin\Debug\OperacionesArchivo.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\OperacionesArchivo\OperacionesArchivo\obj\Debug\OperacionesArchivo.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\OperacionesArchivo\OperacionesArchivo\bin\Debug\OperacionesArchivo.exe
+c:\users\acer\documents\visual studio 2015\Projects\OperacionesArchivo\OperacionesArchivo\bin\Debug\OperacionesArchivo.pdb
+c:\users\acer\documents\visual studio 2015\Projects\OperacionesArchivo\OperacionesArchivo\obj\Debug\OperacionesArchivo.exe
+c:\users\acer\documents\visual studio 2015\Projects\OperacionesArchivo\OperacionesArchivo\obj\Debug\OperacionesArchivo.pdb

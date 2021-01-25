@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2015\Projects\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\LanzandoExcepciones1.exe
+c:\users\acer\documents\visual studio 2015\Projects\LanzandoExcepciones1\LanzandoExcepciones1\bin\Debug\LanzandoExcepciones1.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\LanzandoExcepciones1.exe
+c:\users\acer\documents\visual studio 2015\Projects\LanzandoExcepciones1\LanzandoExcepciones1\obj\Debug\LanzandoExcepciones1.pdb

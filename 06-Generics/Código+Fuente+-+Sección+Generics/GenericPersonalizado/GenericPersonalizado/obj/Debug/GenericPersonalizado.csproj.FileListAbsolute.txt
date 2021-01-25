@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\GenericPersonalizado\GenericPersonalizado\bin\Debug\GenericPersonalizado.exe
+c:\users\acer\documents\visual studio 2015\Projects\GenericPersonalizado\GenericPersonalizado\bin\Debug\GenericPersonalizado.pdb
+c:\users\acer\documents\visual studio 2015\Projects\GenericPersonalizado\GenericPersonalizado\obj\Debug\GenericPersonalizado.exe
+c:\users\acer\documents\visual studio 2015\Projects\GenericPersonalizado\GenericPersonalizado\obj\Debug\GenericPersonalizado.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\GenericPersonalizado\GenericPersonalizado\obj\Debug\GenericPersonalizado.csprojResolveAssemblyReference.cache

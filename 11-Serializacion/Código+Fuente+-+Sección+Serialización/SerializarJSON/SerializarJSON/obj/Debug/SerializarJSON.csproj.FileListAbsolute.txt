@@ -1,0 +1,9 @@
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.exe
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\bin\Debug\SerializarJSON.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.exe
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\obj\Debug\SerializarJSON.pdb
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\bin\Debug\Json.NET.Web.dll
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.dll
+c:\users\acer\documents\visual studio 2015\Projects\SerializarJSON\SerializarJSON\bin\Debug\Newtonsoft.Json.xml

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\breakWhile\breakWhile\bin\Debug\breakWhile.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\breakWhile\breakWhile\bin\Debug\breakWhile.exe
+c:\users\acer\documents\visual studio 2015\Projects\breakWhile\breakWhile\bin\Debug\breakWhile.pdb
+c:\users\acer\documents\visual studio 2015\Projects\breakWhile\breakWhile\obj\Debug\breakWhile.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\breakWhile\breakWhile\obj\Debug\breakWhile.exe
+c:\users\acer\documents\visual studio 2015\Projects\breakWhile\breakWhile\obj\Debug\breakWhile.pdb

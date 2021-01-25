@@ -1,0 +1,4 @@
+c:\users\acer\documents\visual studio 2015\Projects\LanzarExcepciones3\LanzarExcepciones3\bin\Debug\LanzarExcepciones3.exe
+c:\users\acer\documents\visual studio 2015\Projects\LanzarExcepciones3\LanzarExcepciones3\bin\Debug\LanzarExcepciones3.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LanzarExcepciones3\LanzarExcepciones3\obj\Debug\LanzarExcepciones3.exe
+c:\users\acer\documents\visual studio 2015\Projects\LanzarExcepciones3\LanzarExcepciones3\obj\Debug\LanzarExcepciones3.pdb

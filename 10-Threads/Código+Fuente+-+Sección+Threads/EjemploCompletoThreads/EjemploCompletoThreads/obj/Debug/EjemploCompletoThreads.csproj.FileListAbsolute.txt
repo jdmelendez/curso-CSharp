@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\EjemploCompletoThreads.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\EjemploCompletoThreads.exe
+c:\users\acer\documents\visual studio 2015\Projects\EjemploCompletoThreads\EjemploCompletoThreads\bin\Debug\EjemploCompletoThreads.pdb
+c:\users\acer\documents\visual studio 2015\Projects\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\EjemploCompletoThreads.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\EjemploCompletoThreads.exe
+c:\users\acer\documents\visual studio 2015\Projects\EjemploCompletoThreads\EjemploCompletoThreads\obj\Debug\EjemploCompletoThreads.pdb

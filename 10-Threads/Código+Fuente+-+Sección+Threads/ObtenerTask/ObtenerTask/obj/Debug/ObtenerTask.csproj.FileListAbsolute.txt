@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\ObtenerTask\ObtenerTask\bin\Debug\ObtenerTask.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ObtenerTask\ObtenerTask\bin\Debug\ObtenerTask.exe
+c:\users\acer\documents\visual studio 2015\Projects\ObtenerTask\ObtenerTask\bin\Debug\ObtenerTask.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ObtenerTask\ObtenerTask\obj\Debug\ObtenerTask.exe
+c:\users\acer\documents\visual studio 2015\Projects\ObtenerTask\ObtenerTask\obj\Debug\ObtenerTask.pdb

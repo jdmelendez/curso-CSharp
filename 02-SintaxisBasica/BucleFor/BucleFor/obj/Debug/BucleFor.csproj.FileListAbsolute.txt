@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\BucleFor\BucleFor\bin\Debug\BucleFor.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\BucleFor\BucleFor\bin\Debug\BucleFor.exe
+c:\users\acer\documents\visual studio 2015\Projects\BucleFor\BucleFor\bin\Debug\BucleFor.pdb
+c:\users\acer\documents\visual studio 2015\Projects\BucleFor\BucleFor\obj\Debug\BucleFor.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\BucleFor\BucleFor\obj\Debug\BucleFor.exe
+c:\users\acer\documents\visual studio 2015\Projects\BucleFor\BucleFor\obj\Debug\BucleFor.pdb

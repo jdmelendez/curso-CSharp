@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\Serializar\Serializar\bin\Debug\Serializar.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Serializar\Serializar\bin\Debug\Serializar.exe
+c:\users\acer\documents\visual studio 2015\Projects\Serializar\Serializar\bin\Debug\Serializar.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Serializar\Serializar\obj\Debug\Serializar.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Serializar\Serializar\obj\Debug\Serializar.exe
+c:\users\acer\documents\visual studio 2015\Projects\Serializar\Serializar\obj\Debug\Serializar.pdb

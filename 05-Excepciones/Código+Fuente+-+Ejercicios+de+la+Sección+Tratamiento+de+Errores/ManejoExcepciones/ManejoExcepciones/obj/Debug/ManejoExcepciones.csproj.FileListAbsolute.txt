@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\ManejoExcepciones\ManejoExcepciones\obj\Debug\ManejoExcepciones.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ManejoExcepciones\ManejoExcepciones\bin\Debug\ManejoExcepciones.exe
+c:\users\acer\documents\visual studio 2015\Projects\ManejoExcepciones\ManejoExcepciones\bin\Debug\ManejoExcepciones.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ManejoExcepciones\ManejoExcepciones\obj\Debug\ManejoExcepciones.exe
+c:\users\acer\documents\visual studio 2015\Projects\ManejoExcepciones\ManejoExcepciones\obj\Debug\ManejoExcepciones.pdb

@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\interfazexplicita\interfazexplicita\bin\Debug\interfazexplicita.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\interfazexplicita\interfazexplicita\bin\Debug\interfazexplicita.exe
+c:\users\acer\documents\visual studio 2015\Projects\interfazexplicita\interfazexplicita\bin\Debug\interfazexplicita.pdb
+c:\users\acer\documents\visual studio 2015\Projects\interfazexplicita\interfazexplicita\obj\Debug\interfazexplicita.exe
+c:\users\acer\documents\visual studio 2015\Projects\interfazexplicita\interfazexplicita\obj\Debug\interfazexplicita.pdb

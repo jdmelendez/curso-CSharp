@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\ForeachRepeticion\ForeachRepeticion\bin\Debug\ForeachRepeticion.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ForeachRepeticion\ForeachRepeticion\bin\Debug\ForeachRepeticion.exe
+c:\users\acer\documents\visual studio 2015\Projects\ForeachRepeticion\ForeachRepeticion\bin\Debug\ForeachRepeticion.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ForeachRepeticion\ForeachRepeticion\obj\Debug\ForeachRepeticion.exe
+c:\users\acer\documents\visual studio 2015\Projects\ForeachRepeticion\ForeachRepeticion\obj\Debug\ForeachRepeticion.pdb

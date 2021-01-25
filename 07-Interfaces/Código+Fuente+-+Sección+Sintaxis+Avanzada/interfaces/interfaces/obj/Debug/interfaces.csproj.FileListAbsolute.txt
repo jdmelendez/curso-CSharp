@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\interfaces\interfaces\bin\Debug\interfaces.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\interfaces\interfaces\bin\Debug\interfaces.exe
+c:\users\acer\documents\visual studio 2015\Projects\interfaces\interfaces\bin\Debug\interfaces.pdb
+c:\users\acer\documents\visual studio 2015\Projects\interfaces\interfaces\obj\Debug\interfaces.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\interfaces\interfaces\obj\Debug\interfaces.exe
+c:\users\acer\documents\visual studio 2015\Projects\interfaces\interfaces\obj\Debug\interfaces.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\CompresionZIPFile\CompresionZIPFile\bin\Debug\CompresionZIPFile.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\CompresionZIPFile\CompresionZIPFile\obj\Debug\CompresionZIPFile.csprojResolveAssemblyReference.cache
+C:\Users\acer\Documents\Visual Studio 2015\Projects\CompresionZIPFile\CompresionZIPFile\bin\Debug\CompresionZIPFile.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\CompresionZIPFile\CompresionZIPFile\bin\Debug\CompresionZIPFile.pdb
+C:\Users\acer\Documents\Visual Studio 2015\Projects\CompresionZIPFile\CompresionZIPFile\obj\Debug\CompresionZIPFile.exe
+C:\Users\acer\Documents\Visual Studio 2015\Projects\CompresionZIPFile\CompresionZIPFile\obj\Debug\CompresionZIPFile.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.exe
+c:\users\acer\documents\visual studio 2015\Projects\ExpresionesLambda\ExpresionesLambda\bin\Debug\ExpresionesLambda.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.exe
+c:\users\acer\documents\visual studio 2015\Projects\ExpresionesLambda\ExpresionesLambda\obj\Debug\ExpresionesLambda.pdb

@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.exe
+c:\users\acer\documents\visual studio 2015\Projects\LinqToSql\LinqToSql\bin\Debug\LinqToSql.pdb
+c:\users\acer\documents\visual studio 2015\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.exe
+c:\users\acer\documents\visual studio 2015\Projects\LinqToSql\LinqToSql\obj\Debug\LinqToSql.pdb

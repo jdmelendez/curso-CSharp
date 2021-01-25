@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\MiSortedList\MiSortedList\bin\Debug\MiSortedList.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\MiSortedList\MiSortedList\bin\Debug\MiSortedList.exe
+c:\users\acer\documents\visual studio 2015\Projects\MiSortedList\MiSortedList\bin\Debug\MiSortedList.pdb
+c:\users\acer\documents\visual studio 2015\Projects\MiSortedList\MiSortedList\obj\Debug\MiSortedList.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\MiSortedList\MiSortedList\obj\Debug\MiSortedList.exe
+c:\users\acer\documents\visual studio 2015\Projects\MiSortedList\MiSortedList\obj\Debug\MiSortedList.pdb

@@ -1,0 +1,13 @@
+c:\users\acer\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.exe
+c:\users\acer\documents\visual studio 2015\Projects\Strings\Strings\bin\Debug\Strings.pdb
+c:\users\acer\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.exe
+c:\users\acer\documents\visual studio 2015\Projects\Strings\Strings\obj\Debug\Strings.pdb
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\bin\Debug\Strings.exe.config
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\bin\Debug\Strings.exe
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\bin\Debug\Strings.pdb
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\obj\Debug\Strings.csprojAssemblyReference.cache
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\obj\Debug\Strings.csproj.CoreCompileInputs.cache
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\obj\Debug\Strings.exe
+C:\Users\JoseD\REPOSITORIO\CURSOS\CSharp-Udemy\profesor\02-SintaxisBasica\Strings\Strings\obj\Debug\Strings.pdb

@@ -1,0 +1,5 @@
+c:\users\acer\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.exe
+c:\users\acer\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\bin\Debug\ListaGenerica.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.exe
+c:\users\acer\documents\visual studio 2015\Projects\ListaGenerica\ListaGenerica\obj\Debug\ListaGenerica.pdb

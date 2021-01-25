@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\FicherosWindows\FicherosWindows\bin\Debug\FicherosWindows.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\FicherosWindows\FicherosWindows\bin\Debug\FicherosWindows.exe
+c:\users\acer\documents\visual studio 2015\Projects\FicherosWindows\FicherosWindows\bin\Debug\FicherosWindows.pdb
+c:\users\acer\documents\visual studio 2015\Projects\FicherosWindows\FicherosWindows\obj\Debug\FicherosWindows.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\FicherosWindows\FicherosWindows\obj\Debug\FicherosWindows.exe
+c:\users\acer\documents\visual studio 2015\Projects\FicherosWindows\FicherosWindows\obj\Debug\FicherosWindows.pdb

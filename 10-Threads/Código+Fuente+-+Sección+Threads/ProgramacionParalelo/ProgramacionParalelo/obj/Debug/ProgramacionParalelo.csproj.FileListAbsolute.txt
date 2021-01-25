@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\ProgramacionParalelo.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\ProgramacionParalelo.exe
+c:\users\acer\documents\visual studio 2015\Projects\ProgramacionParalelo\ProgramacionParalelo\bin\Debug\ProgramacionParalelo.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\ProgramacionParalelo.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\ProgramacionParalelo.exe
+c:\users\acer\documents\visual studio 2015\Projects\ProgramacionParalelo\ProgramacionParalelo\obj\Debug\ProgramacionParalelo.pdb

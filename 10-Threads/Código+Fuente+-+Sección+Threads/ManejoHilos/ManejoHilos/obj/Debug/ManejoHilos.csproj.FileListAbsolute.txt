@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\ManejoHilos\ManejoHilos\bin\Debug\ManejoHilos.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ManejoHilos\ManejoHilos\bin\Debug\ManejoHilos.exe
+c:\users\acer\documents\visual studio 2015\Projects\ManejoHilos\ManejoHilos\bin\Debug\ManejoHilos.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ManejoHilos\ManejoHilos\obj\Debug\ManejoHilos.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ManejoHilos\ManejoHilos\obj\Debug\ManejoHilos.exe
+c:\users\acer\documents\visual studio 2015\Projects\ManejoHilos\ManejoHilos\obj\Debug\ManejoHilos.pdb

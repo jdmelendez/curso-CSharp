@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\ConsultasLO\ConsultasLO\bin\Debug\ConsultasLO.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\ConsultasLO\ConsultasLO\bin\Debug\ConsultasLO.exe
+c:\users\acer\documents\visual studio 2015\Projects\ConsultasLO\ConsultasLO\bin\Debug\ConsultasLO.pdb
+c:\users\acer\documents\visual studio 2015\Projects\ConsultasLO\ConsultasLO\obj\Debug\ConsultasLO.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\ConsultasLO\ConsultasLO\obj\Debug\ConsultasLO.exe
+c:\users\acer\documents\visual studio 2015\Projects\ConsultasLO\ConsultasLO\obj\Debug\ConsultasLO.pdb

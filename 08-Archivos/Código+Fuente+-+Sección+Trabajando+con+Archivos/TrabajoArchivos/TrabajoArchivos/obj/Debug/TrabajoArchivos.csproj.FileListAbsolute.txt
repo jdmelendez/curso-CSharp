@@ -1,0 +1,6 @@
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoArchivos\TrabajoArchivos\bin\Debug\TrabajoArchivos.exe.config
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoArchivos\TrabajoArchivos\obj\Debug\TrabajoArchivos.csprojResolveAssemblyReference.cache
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoArchivos\TrabajoArchivos\bin\Debug\TrabajoArchivos.exe
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoArchivos\TrabajoArchivos\bin\Debug\TrabajoArchivos.pdb
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoArchivos\TrabajoArchivos\obj\Debug\TrabajoArchivos.exe
+c:\users\acer\documents\visual studio 2015\Projects\TrabajoArchivos\TrabajoArchivos\obj\Debug\TrabajoArchivos.pdb
